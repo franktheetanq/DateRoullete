@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dateroullete.Welcome">
+
+    <EditText
+        android:id="@+id/etWelcome"
+        android:layout_width="238dp"
+        android:layout_height="120dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:singleLine="true"
+        android:text="Welcome to Date Roullette"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="115dp" />
+</android.support.constraint.ConstraintLayout>

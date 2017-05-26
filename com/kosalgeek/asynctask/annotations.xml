@@ -1,0 +1,5 @@
+<root>
+    <item name='com.kosalgeek.asynctask.PostResponseAsyncTask'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
